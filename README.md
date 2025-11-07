@@ -1,4 +1,4 @@
-# Weather API (FastAPI + WeatherAPI.com + Indian Pincode Support)
+# Weather API (FastAPI + WeatherAPI.com)
 
 This project provides a simple **GET API** that returns **current weather details** for a given **City Name** or **Indian Pincode**.  
 It uses external public APIs to retrieve accurate weather and location data.
